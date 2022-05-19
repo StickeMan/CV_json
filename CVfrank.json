@@ -1,0 +1,41 @@
+{
+	"nombre": "Francisco Delgado Martínez",
+	"fechaNacimiento": "16/10/2000",
+	"Resumen": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas, officia repudiandae ipsa, iustoeos, sequi magnam vel et hic dicta sapiente veritatis fuga similique molestias temporibus aliquam fugiat dolor nihil.",
+	"telefono": "984-198-93-05",
+	"correo":"2005040@utrivieramaya.edu.mx",
+	"skills": [
+		{
+			"professional skills": ["HTML","CSS","Javascript","Java"]
+		},
+		{
+			"Computer skills": ["Microsoft productivity software (Word, Excel, etc)","Adobe Creative Suite","Windows"]
+		}
+	],
+	"experienciaLaboral": [
+		{
+			"job":"",
+			"company":"",
+			"date":"",
+			"datails":[]
+		},
+		{
+			"job":"",
+			"company":"",
+			"date":"",
+			"datails":[]
+		}
+	],
+	"educacion": [
+		{
+			"escuela": "Vicente Guerrero",
+			"fecha": "2013-2016"
+		},
+		{
+			"escuela": "Cetec Riviera Maya",
+			"fecha": "2017-2019"
+		}
+	],
+	"hobbies":["Read","drawn","walk sometimes"],
+	"Languages":["English"]
+}
