@@ -14,10 +14,10 @@
 	],
 	"experienciaLaboral": [
 		{
-			"job":"",
-			"company":"",
-			"date":"",
-			"datails":[]
+			"job":"Limpieza",
+			"company":"Hard Rock",
+			"date":"04/2018-07/2018",
+			"datails":["Limpiar pasillos", "apoyar en la lavanderia", "limpiar cuartos"]
 		},
 	],
 	"educacion": [
