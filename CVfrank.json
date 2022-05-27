@@ -22,12 +22,9 @@
 	],
 	"educacion": [
 		{
-			"escuela": "Vicente Guerrero",
-			"fecha": "2013-2016"
-		},
-		{
 			"escuela": "Cetec Riviera Maya",
-			"fecha": "2017-2019"
+			"fecha": "2017-2019",
+			"promedio": 9.0
 		}
 	],
 	"hobbies":["Read","drawn","walk sometimes"],
