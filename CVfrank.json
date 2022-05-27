@@ -6,10 +6,10 @@
 	"correo":"2005040@utrivieramaya.edu.mx",
 	"skills": [
 		{
-			"professional skills": ["HTML","CSS","Javascript","Java"]
+			"professionalskills": ["HTML","CSS","Javascript","Java"]
 		},
 		{
-			"Computer skills": ["Microsoft productivity software (Word, Excel, etc)","Adobe Creative Suite","Windows"]
+			"Computerskills": ["Microsoft productivity software (Word, Excel, etc)","Adobe Creative Suite","Windows"]
 		}
 	],
 	"experienciaLaboral": [
